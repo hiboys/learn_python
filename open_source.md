@@ -32,3 +32,9 @@ for f in p.files():
 overholt项目说明了如何构建大型flask项目。flask项目的骨架，api层，前端界面，后端管理层，中间件，服务层，测试，升级，部署等各方面。能够从中学习到如何去组织flask项目。
 
 开源地址:[https://github.com/mattupstate/overholt](https://github.com/mattupstate/overholt)
+
+##explore-flask
+
+explore-flask项目实际是一本书。里面详细写了应用flask进行开发的一些核心概念，值得一看。
+
+开源地址:[https://github.com/rpicard/explore-flask](https://github.com/rpicard/explore-flask)
